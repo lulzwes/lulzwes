@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shirkx aka Wes.
+- 👋 Hi, I’m @wesknerd aka Wes.
 - 👀 I’m interested in UX/UI Design, Software Development, Game Development and Pixel art.
 - 🌱 I’m currently learning Game Development, and have recently started a nonprofit based around sustainabilty in disc golf. 
 - 💞️ I’m looking to collaborate on literally anything.
